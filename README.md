@@ -1,2 +1,12 @@
 # Surf-Mystery-Box-Mockup
-It's a mockup page. Only contains HTML and CSS, made it for practice a little bit. I used libraries like bootstrap and animate.css
+
+Just a mockup page, where you can order surf inspired mystery boxes. Only contains HTML and CSS.
+
+*JavaScript only for the silly alerts.*
+
+I made it for practice a little bit the basics.
+
+## Libraries used:
+    * Bootstrap
+    * animate.css
+  
